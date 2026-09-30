@@ -1,0 +1,6 @@
+{
+  "name": "HERITAGE WALK - Săn Di Sản, Xơi Đặc Sản",
+  "description": "Nền tảng Web App du lịch thông minh cá nhân hóa lộ trình & minh bạch chi tiêu dành cho giới trẻ tại Thành phố Huế. Chạm di sản kiệt hẻm - Làm chủ ngân sách Gen Z.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
